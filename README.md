@@ -1,0 +1,2 @@
+Developed a full-scale relational database management system from scratch, featuring a custom buffer manager (clock replacement algorithm), catalog manager, file/page management, and advanced query execution operators (nested-loop join, hash join, sort-merge join). Implemented transactional page caching, SQL-style schema operations (create, insert, delete), and an efficient in-memory hash table for page lookups. Demonstrates mastery of low-level systems programming, data structures, and query optimization techniques typically found in production DBMS engines.
+
